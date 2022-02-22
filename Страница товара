@@ -1,0 +1,69 @@
+<html>
+  <!DOCTYPE html>
+  <html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Горный велосипед GT 27.5 FORCE CRB PRO</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1>GT 27.5 FORCE CRB PRO</h1>
+        <p style="text-align: center;" style=margin-bottom: 18px; style=margin-top: 18px;  style=font-size: 2em;>Комфорт и скорость - вот, что нас объедняет!</p>
+        <img src="bicycle2.jpg"><img src="bicycle.jpg">
+      </div>
+    </header>
+
+      <section class="description of goods">
+      <h2 style="text-align: center;" style=font-size: 2.6em;>Описание товара</h2>
+      <p style="text-align: center;" style ="width: 700px; height: 100px;">Вкус побед на этапах Мировой Серии Эндуро знаком этому байку с момента его появления. Геометрия его рамы и активная подвеска бескомпромиссны к подъемам и спускам, а комплектация представляет собой лучшее из арсеналов современной индустрии. Скорость и универсальность, возведенные в степень надежности и помноженные на потрясающую работоспособность – это как раз то, что нужно нацеленным на победу райдерам эндуро, фанатам катания в больших горах или завсегдатаям байк-парков.</p>
+      </section>
+
+    <section class="characteristics">
+      <h2 style=font-size: 2.6em;>Характеристики товара</h2>
+      <ul style="list-style-type: none; padding-inline-start: 2px;">
+        <li>Бренд:  GT</li>
+        <li>Пол:  унисекс</li>
+        <li>Возраст:  для взрослых</li>
+        <li>Пол:  унисекс</li>
+        <li>Материал рамы:  карбон</li>
+        <li>Тип подвески:  четырехрычажная</li>
+        <li>Ход подвески, мм:  150</li>
+        <li>Крепление тормозов:  post mount</li>
+        <li>Крепление колеса:  ось</li>
+        <li>Конструкция вилки:  масляно-воздушная</li>
+        <li>Ход заднего амортизатора, мм:  55</li>
+        <li>Вынос руля:  GT, алюминий, 45 мм</li>
+        <li>Ручки руля:  Fabric Funguy</li>
+        <li>Рулевая колонка:  FSA No.42</li>
+        <li>Манетки:  SRAM X01 Eagle, 12-скр</li>
+        <li>Количество скоростей:  12</li>
+        <li>Задний переключатель:  SRAM X01 Eagle</li>
+        <li>Лапка:  длинная</li>
+        <li>Кассета:  SRAM XG-1295, 10-52T</li>
+        <li>Каретка:  SRAM DUB BSA</li>
+        <li>Система:  Truvativ Descendent 6K, Dub, 32t</li>
+        <li>Цепь:  SRAM GX Eagle, 12-скр</li>
+        <li>Размер колес в дюймах:  27,5</li>
+        <li>Передняя втулка:  Stan's NoTubes Neo, под ось 15x110 мм, 32h</li>
+        <li>Задняя втулка:  Stan's NoTubes Neo под ось 12x148мм, барабан XD</li>
+        <li>Спицы:  нержавеющая сталь, тип - 14G</li>
+        <li>Седло:  Fabric Scoop Shallow Sport, стальные рамки</li>
+        <li>Назначение:  эндуро</li>
+        <li>Тип велосипеда:  двухподвес</li>
+        <li>Уровень оборудования:  профессиональный</li>
+        <li>Тип тормозов:  дисковые гидравлические</li>
+      </ul>
+    </section>
+    
+<hr>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p style="text-align: center;">© DG, 2022</p>
+        <p style="text-align: center;">Горный велосипед GT 27.5 FORCE CRB PRO</p>
+      </div>
+    </footer>
+  </body>
+</html>
